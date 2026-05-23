@@ -1,3 +1,10 @@
+## Orbit 
+ - very sorry but the code is still not finished and in progress, will mosltly get this closed before jun15,2026.
+ - readme is terrible currently but very simply this is a personal management website that tracks your life. Designed to relove arround your life while making it simpler.
+ - new ideas/suggestions are welcomed
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
